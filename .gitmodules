@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bardr"]
+	path = bardr
+	url = https://github.com/wzbillings/bardr
+	shallow = true
+	registered = true
